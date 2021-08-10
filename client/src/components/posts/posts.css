@@ -1,0 +1,8 @@
+.posts{
+    flex: 9;
+    display: flex;
+    /* to get the all available space */
+    flex-wrap: wrap;
+    margin: 20px;
+
+}
